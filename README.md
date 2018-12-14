@@ -65,13 +65,9 @@
 
 [Augmented Sketch: Faster and More Accurate Stream Processing ](2016/p1449-roy.pdf) SIGMOD 2016
 
+[Quality-driven disorder handling for m-way sliding window stream joins](2016/07498265.pdf) ICDE 2016
 
-[](2016/) ICDE 2016
-[](2016/) ICDE 2016
-[](2016/) ICDE 2016
-[](2016/) ICDE 2016
-[](2016/) ICDE 2016
-[](2016/) ICDE 2016
+[When two choices are not enough: Balancing at scale in Distributed Stream Processing](2016/07498273.pdf) ICDE 2016
 
 ## Paper List of 2017
 [Toward High-Performance Distributed Stream Processing via Approximate Fault Tolerance](2017/p73-lee.pdf)VLDB 2017
@@ -92,14 +88,16 @@
 
 [Dhalion: Self-Regulating Stream Processing in Heron](2017/p1825-floratou.pdf)VLDB 2017
 
-[](2017/) SIGMOD 2017
-[](2017/) SIGMOD 2017
-[](2017/) SIGMOD 2017
-[](2017/) ICDE 2017
-[](2017/) ICDE 2017
-[](2017/) ICDE 2017
-[](2017/) ICDE 2017
-[](2017/) ICDE 2017
+[Twitter Heron: Towards Extensible Streaming Engines](2017/07930056.pdf) ICDE 2017
+
+[Integrative Dynamic Reconfiguration in a Parallel Stream Processing Engine](2017/07929977.pdf) ICDE 2017
+
+[Monitoring the Top-m Rank Aggregation of Spatial Objects in Streaming Queries](2017/07930009.pdf) ICDE 2017
+
+[Revisiting the Design of Data Stream Processing Systems on Multi-Core Processors](2017/07930015.pdf) ICDE 2017
+
+[Distributed Publish/Subscribe Query Processing on the Spatio-Textual Data Stream](2017/07930050.pdf) ICDE 2017
+
 ## Paper List of 2018
 [Chi: A Scalable and Programmable Control Plane for Distributed Stream Processing Systems](2018/p1303-mai.pdf)VLDB 2018
 
@@ -107,10 +105,16 @@
 
 [Providing Streaming Joins as a Service at Facebook](2018/p1809-jacques-silva.pdf)VLDB 2018
 
-[](2018/) SIGMOD 2018
-[](2018/) SIGMOD 2018
-[](2018/) SIGMOD 2018
-[](2018/) ICDE 2018
+[Cold Filter: A Meta-Framework for Faster and More Accurate Stream Processing](2018/cf-sigmod18.pdf) SIGMOD 2018
+
+[Distinct Sampling on Streaming Data with Near-Duplicates](2018/pods18-robustL0.pdf) PODS 2018
+
+[Data Streams with Bounded Deletions](2018/p341-jayaram.pdf) PODS 2018
+
+[Waterwheel: Realtime Indexing and Temporal Range Query Processing over Massive Data Streams](2018/08509254.pdf) ICDE 2018
+
+[FAST: Frequency-Aware Indexing for Spatio-Textual Data Streams](2018/08509257.pdf) ICDE 2018
+
 ## List of Classic Papers
 
 
