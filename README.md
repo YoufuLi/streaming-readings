@@ -1,7 +1,9 @@
 # Readings for Streaming
 ## Paper List of 2013
 [MillWheel: fault-tolerant stream processing at internet scale](2013/millwheel-vldb2013.pdf) VLDB 2013
+
 [Sketch-based geometric monitoring of distributed stream queries](2013/p937-garofalakis.pdf) VLDB 2013
+
 [Streaming algorithms for k-core decomposition](2013/p433-sariyuce.pdf) VLDB 2013
 [Integrating scale out and fault tolerance in stream processing using operator state management](2013/p725-fernandez.pdf) SIGMOD 2013
 [Photon: Fault-tolerant and Scalable Joining of Continuous Data Streams](2013/p577-ananthanarayanan.pdf) SIGMOD 2013
