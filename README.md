@@ -144,4 +144,6 @@
 
 [Scalable stream join processing with expensive predicates: workload distribution and adaptation by time-slicing](classic/10.1.1.503.6030.pdf) EDBT 2009
 
+[SQPR: Stream query planning with reuse](classic/icde11-sqpr.pdf) ICDE 2011
 
+[Query planning for continuous aggregation queries over a network of data aggregators](classic/Rajeev-tkde) TKDE 2012
