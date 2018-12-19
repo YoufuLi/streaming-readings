@@ -98,6 +98,8 @@
 
 [Distributed Publish/Subscribe Query Processing on the Spatio-Textual Data Stream](2017/07930050.pdf) ICDE 2017
 
+[Drizzle: Fast and adaptable stream processing at scale](2017/drizzle-sosp17.pdf) SOSP 2017
+
 ## Paper List of 2018
 [Chi: A Scalable and Programmable Control Plane for Distributed Stream Processing Systems](2018/p1303-mai.pdf)VLDB 2018
 
@@ -116,6 +118,30 @@
 [FAST: Frequency-Aware Indexing for Spatio-Textual Data Streams](2018/08509257.pdf) ICDE 2018
 
 ## List of Classic Papers
+[Exploiting k-constraints to reduce memory overhead in continuous queries over data streams](classic/2002-52.pdf) TODS 2004
+
+[Approximate join processing over data streams](classic/p40-das.pdf) SIGMOD 2003
+
+[Evaluating Window Joins over Punctuated Streams](classic/f202-ding.pdf) CIKM 2003
+
+[Adaptive load shedding for windowed stream joins ](classic/git-cercs-05-05.pdf) CIKM 2005
+
+[Evaluating window joins over unbounded streams](classic/kang-window.pdf) ICDE 2003
+
+[How soccer players would do stream joins](classic/soccer-players.pdf) SIGMOD 2011
+
+[The design of the borealis stream processing engine](classic/cidr05.pdf) CIDR 2005
+
+[Streaming queries over streaming data](classic/S07P01.pdf) VLDB 2002
+
+[S4: Distributed stream computing platform](classic/s4.pdf) ICDMW 2010
+
+[Discretized Streams: An Efficient and Fault-Tolerant Model for Stream Processing on Large Clusters](classic/hotcloud12-final28) HotCloud 2012
+
+[Characterizing memory requirements for queries over continuous data streams](classic/2002-29.pdf) TODS 2004
+
+[Processing sliding window multi-joins in continuous queries over data streams](classic/multijoins) VLDB 2003
+
+[Scalable stream join processing with expensive predicates: workload distribution and adaptation by time-slicing](classic/10.1.1.503.6030.pdf) EDBT 2009
 
 
-## Query Planning in Streaming Systems
