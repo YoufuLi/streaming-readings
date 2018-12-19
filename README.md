@@ -136,8 +136,6 @@
 
 [S4: Distributed stream computing platform](classic/s4.pdf) ICDMW 2010
 
-[Discretized Streams: An Efficient and Fault-Tolerant Model for Stream Processing on Large Clusters](classic/hotcloud12-final28) HotCloud 2012
-
 [Characterizing memory requirements for queries over continuous data streams](classic/2002-29.pdf) TODS 2004
 
 [Processing sliding window multi-joins in continuous queries over data streams](classic/multijoins) VLDB 2003
