@@ -107,6 +107,8 @@
 
 [Providing Streaming Joins as a Service at Facebook](2018/p1809-jacques-silva.pdf)VLDB 2018
 
+[Megaphone: Latency-conscious state migration for distributed streaming dataflows](2018/1812.01371.pdf)VLDB 2018
+
 [Cold Filter: A Meta-Framework for Faster and More Accurate Stream Processing](2018/cf-sigmod18.pdf) SIGMOD 2018
 
 [Distinct Sampling on Streaming Data with Near-Duplicates](2018/pods18-robustL0.pdf) PODS 2018
@@ -144,4 +146,8 @@
 
 [SQPR: Stream query planning with reuse](classic/icde11-sqpr.pdf) ICDE 2011
 
-[Query planning for continuous aggregation queries over a network of data aggregators](classic/Rajeev-tkde) TKDE 2012
+[Query planning for continuous aggregation queries over a network of data aggregators](classic/Rajeev-tkde.pdf) TKDE 2012
+
+[Dynamic query evaluation plans](classic/092Dynamic.pdf)
+
+[Optimization of dynamic query evaluation plans](classic/p150-cole.pdf) SIGMOD 1994
