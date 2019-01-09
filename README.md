@@ -126,7 +126,7 @@
 
 [Evaluating Window Joins over Punctuated Streams](classic/f202-ding.pdf) CIKM 2003
 
-[Adaptive load shedding for windowed stream joins ](classic/git-cercs-05-05.pdf) CIKM 2005
+[Adaptive load shedding for windowed stream joins](classic/git-cercs-05-05.pdf) CIKM 2005
 
 [Evaluating window joins over unbounded streams](classic/kang-window.pdf) ICDE 2003
 
